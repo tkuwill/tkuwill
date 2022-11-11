@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning writing some scripts which can improve your user experience in **archlinux**.
 - My dotfiles: [willdezenbookArch_dotfiles](https://github.com/tkuwill/willdezenbookArch_dotfiles)
 - My website: https://alittleeditor.com/
+- My Gist: https://gist.github.com/tkuwill
 
 <!---
 tkuwill/tkuwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
